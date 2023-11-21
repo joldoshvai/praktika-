@@ -1,5 +1,4 @@
-.header {
-}
+
 .container {
     max-width: 1300px;
     height: 100%;
@@ -45,9 +44,7 @@ li {
 .hero__title {
     color: #000;
 }
-.hero__p {
 
-}
 .img {
     width: 100%;
 }
