@@ -57,3 +57,23 @@ li {
     padding: 15px 30px;
     font-size:20px
 }
+
+
+
+.contaction__info {
+   text-align: center; 
+    
+}
+.contaction__title {
+    /* width: 100px; */
+    /* max-width: 250px; */
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    /* flex-direction: column; */
+    text-align: center;
+}
+
+.img-title {
+    width: 100%;
+}
